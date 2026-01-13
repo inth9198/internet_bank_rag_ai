@@ -1,0 +1,2502 @@
+[
+  {
+    "chunk_id": "FAQ0001_chunk_0",
+    "faq_id": "FAQ0001",
+    "title": "인터넷뱅킹 로그인 방법",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0001",
+    "updated_at": "2024-07-13",
+    "channel": "mobile",
+    "text": "인터넷뱅킹 로그인 방법\n\n인터넷뱅킹에 로그인하려면 아이디와 비밀번호를 입력한 후, 공동인증서 또는 OTP 인증을 완료해야 합니다. 첫 로그인 시에는 보안카드 인증이 필요할 수 있습니다."
+  },
+  {
+    "chunk_id": "FAQ0002_chunk_0",
+    "faq_id": "FAQ0002",
+    "title": "로그인 비밀번호를 잊어버렸어요",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0002",
+    "updated_at": "2025-07-25",
+    "channel": "mobile",
+    "text": "로그인 비밀번호를 잊어버렸어요\n\n비밀번호를 잊어버린 경우, 로그인 화면에서 '비밀번호 찾기'를 클릭하세요. 본인인증 후 새 비밀번호를 설정할 수 있습니다. 공동인증서 또는 휴대폰 인증이 필요합니다."
+  },
+  {
+    "chunk_id": "FAQ0003_chunk_0",
+    "faq_id": "FAQ0003",
+    "title": "로그인이 안돼요",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0003",
+    "updated_at": "2024-11-20",
+    "channel": "mobile",
+    "text": "로그인이 안돼요\n\n로그인이 안 되는 경우 다음을 확인하세요: 1) 아이디와 비밀번호가 정확한지 확인 2) 공동인증서가 설치되어 있는지 확인 3) 보안프로그램이 최신 버전인지 확인 4) 브라우저 캐시 삭제 후 재시도"
+  },
+  {
+    "chunk_id": "FAQ0004_chunk_0",
+    "faq_id": "FAQ0004",
+    "title": "5회 연속 로그인 실패로 계정이 잠겼어요",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0004",
+    "updated_at": "2025-05-26",
+    "channel": "web",
+    "text": "5회 연속 로그인 실패로 계정이 잠겼어요\n\n5회 연속 로그인 실패 시 보안을 위해 계정이 일시적으로 잠깁니다. 30분 후 다시 시도하거나, 고객센터(1588-0000)로 문의하여 계정 잠금을 해제할 수 있습니다."
+  },
+  {
+    "chunk_id": "FAQ0005_chunk_0",
+    "faq_id": "FAQ0005",
+    "title": "이체가 안돼요",
+    "category": "이체",
+    "url": "https://banking.example.com/faq/이체/FAQ0005",
+    "updated_at": "2025-05-20",
+    "channel": "both",
+    "text": "이체가 안돼요\n\n이체가 안 되는 경우 다음을 확인하세요: 1) 이체 한도 확인 2) 공동인증서 인증 완료 여부 3) 보안카드 번호 입력 정확성 4) 계좌 잔액 확인 5) 이체 가능 시간 확인(평일 09:00-18:00)"
+  },
+  {
+    "chunk_id": "FAQ0006_chunk_0",
+    "faq_id": "FAQ0006",
+    "title": "이체 한도는 어떻게 되나요?",
+    "category": "이체",
+    "url": "https://banking.example.com/faq/이체/FAQ0006",
+    "updated_at": "2024-09-24",
+    "channel": "both",
+    "text": "이체 한도는 어떻게 되나요?\n\n일일 이체 한도는 계좌 유형에 따라 다릅니다. 일반계좌는 1일 1천만원, 입출금통장은 1일 5천만원입니다. 한도 변경은 인터넷뱅킹 보안관리 이체한도설정에서 가능합니다."
+  },
+  {
+    "chunk_id": "FAQ0007_chunk_0",
+    "faq_id": "FAQ0007",
+    "title": "이체 수수료는 얼마인가요?",
+    "category": "이체",
+    "url": "https://banking.example.com/faq/이체/FAQ0007",
+    "updated_at": "2025-03-02",
+    "channel": "both",
+    "text": "이체 수수료는 얼마인가요?\n\n같은 은행 간 이체는 수수료가 없습니다. 타행 이체의 경우 1회당 500원1,000원이 부과됩니다. 다만, 인터넷뱅킹 이용 고객은 월 10회까지 무료입니다."
+  },
+  {
+    "chunk_id": "FAQ0008_chunk_0",
+    "faq_id": "FAQ0008",
+    "title": "이체 내역을 확인하고 싶어요",
+    "category": "이체",
+    "url": "https://banking.example.com/faq/이체/FAQ0008",
+    "updated_at": "2024-03-27",
+    "channel": "web",
+    "text": "이체 내역을 확인하고 싶어요\n\n이체 내역은 인터넷뱅킹 거래내역조회에서 확인할 수 있습니다. 기간을 선택하여 조회하거나, 최근 1개월 내역을 바로 확인할 수 있습니다. 모바일뱅킹 앱에서도 확인 가능합니다."
+  },
+  {
+    "chunk_id": "FAQ0009_chunk_0",
+    "faq_id": "FAQ0009",
+    "title": "이체 오류 코드 E001이 나왔어요",
+    "category": "이체",
+    "url": "https://banking.example.com/faq/이체/FAQ0009",
+    "updated_at": "2024-09-09",
+    "channel": "web",
+    "text": "이체 오류 코드 E001이 나왔어요\n\n오류 코드 E001은 계좌 정보 오류를 의미합니다. 계좌번호와 예금주명이 정확한지 확인하세요. 타행 계좌 이체 시에는 은행명도 정확히 선택해야 합니다."
+  },
+  {
+    "chunk_id": "FAQ0010_chunk_0",
+    "faq_id": "FAQ0010",
+    "title": "공동인증서가 설치되지 않아요",
+    "category": "인증서",
+    "url": "https://banking.example.com/faq/인증서/FAQ0010",
+    "updated_at": "2025-01-23",
+    "channel": "both",
+    "text": "공동인증서가 설치되지 않아요\n\n공동인증서 설치를 위해 다음을 확인하세요: 1) 보안프로그램 최신 버전 설치 2) 브라우저 호환성 확인(Chrome, Edge 권장) 3) 관리자 권한으로 실행 4) 방화벽백신 프로그램 예외 설정"
+  },
+  {
+    "chunk_id": "FAQ0011_chunk_0",
+    "faq_id": "FAQ0011",
+    "title": "공동인증서 비밀번호를 잊어버렸어요",
+    "category": "인증서",
+    "url": "https://banking.example.com/faq/인증서/FAQ0011",
+    "updated_at": "2024-09-29",
+    "channel": "mobile",
+    "text": "공동인증서 비밀번호를 잊어버렸어요\n\n공동인증서 비밀번호를 잊어버린 경우, 인증서를 삭제하고 재발급 받아야 합니다. 인터넷뱅킹 공동인증서 관리 인증서 재발급 메뉴에서 본인인증 후 새 인증서를 발급받을 수 있습니다."
+  },
+  {
+    "chunk_id": "FAQ0012_chunk_0",
+    "faq_id": "FAQ0012",
+    "title": "공동인증서가 만료되었어요",
+    "category": "인증서",
+    "url": "https://banking.example.com/faq/인증서/FAQ0012",
+    "updated_at": "2025-02-10",
+    "channel": "mobile",
+    "text": "공동인증서가 만료되었어요\n\n공동인증서는 발급 후 1년간 유효합니다. 만료 30일 전부터 갱신 안내가 표시됩니다. 만료된 인증서는 인터넷뱅킹 공동인증서 관리 인증서 갱신에서 갱신할 수 있습니다."
+  },
+  {
+    "chunk_id": "FAQ0013_chunk_0",
+    "faq_id": "FAQ0013",
+    "title": "공동인증서를 다른 PC에서 사용하고 싶어요",
+    "category": "인증서",
+    "url": "https://banking.example.com/faq/인증서/FAQ0013",
+    "updated_at": "2025-02-01",
+    "channel": "web",
+    "text": "공동인증서를 다른 PC에서 사용하고 싶어요\n\n공동인증서는 USB에 저장하여 다른 PC에서 사용할 수 있습니다. 인터넷뱅킹 공동인증서 관리 인증서 내보내기에서 USB로 내보낸 후, 다른 PC에서 인증서 가져오기를 실행하세요."
+  },
+  {
+    "chunk_id": "FAQ0014_chunk_0",
+    "faq_id": "FAQ0014",
+    "title": "공인인증서와 공동인증서의 차이는?",
+    "category": "인증서",
+    "url": "https://banking.example.com/faq/인증서/FAQ0014",
+    "updated_at": "2025-01-31",
+    "channel": "web",
+    "text": "공인인증서와 공동인증서의 차이는?\n\n공인인증서는 2020년 말 폐지되었고, 현재는 공동인증서를 사용합니다. 공동인증서는 금융결제원에서 발급하는 전자서명 인증서로, 인터넷뱅킹 거래에 필수입니다."
+  },
+  {
+    "chunk_id": "FAQ0015_chunk_0",
+    "faq_id": "FAQ0015",
+    "title": "오류 코드 E001: 계좌 정보 오류",
+    "category": "오류코드",
+    "url": "https://banking.example.com/faq/오류코드/FAQ0015",
+    "updated_at": "2025-01-29",
+    "channel": "web",
+    "text": "오류 코드 E001: 계좌 정보 오류\n\nE001 오류는 계좌번호 또는 예금주명이 잘못되었을 때 발생합니다. 계좌번호를 다시 확인하고, 타행 이체 시에는 은행명도 정확히 선택하세요."
+  },
+  {
+    "chunk_id": "FAQ0016_chunk_0",
+    "faq_id": "FAQ0016",
+    "title": "오류 코드 E002: 잔액 부족",
+    "category": "오류코드",
+    "url": "https://banking.example.com/faq/오류코드/FAQ0016",
+    "updated_at": "2025-12-20",
+    "channel": "both",
+    "text": "오류 코드 E002: 잔액 부족\n\nE002 오류는 계좌 잔액이 부족할 때 발생합니다. 이체 금액과 계좌 잔액을 확인하세요. 통장 정지 상태인지도 확인이 필요합니다."
+  },
+  {
+    "chunk_id": "FAQ0017_chunk_0",
+    "faq_id": "FAQ0017",
+    "title": "오류 코드 E003: 한도 초과",
+    "category": "오류코드",
+    "url": "https://banking.example.com/faq/오류코드/FAQ0017",
+    "updated_at": "2024-08-30",
+    "channel": "both",
+    "text": "오류 코드 E003: 한도 초과\n\nE003 오류는 일일 이체 한도를 초과했을 때 발생합니다. 이체 한도는 인터넷뱅킹 보안관리 이체한도설정에서 확인 및 변경할 수 있습니다."
+  },
+  {
+    "chunk_id": "FAQ0018_chunk_0",
+    "faq_id": "FAQ0018",
+    "title": "오류 코드 E004: 인증 실패",
+    "category": "오류코드",
+    "url": "https://banking.example.com/faq/오류코드/FAQ0018",
+    "updated_at": "2024-03-17",
+    "channel": "web",
+    "text": "오류 코드 E004: 인증 실패\n\nE004 오류는 공동인증서 인증이 실패했을 때 발생합니다. 인증서가 정상적으로 설치되어 있는지, 비밀번호가 정확한지 확인하세요."
+  },
+  {
+    "chunk_id": "FAQ0019_chunk_0",
+    "faq_id": "FAQ0019",
+    "title": "오류 코드 E005: 보안카드 오류",
+    "category": "오류코드",
+    "url": "https://banking.example.com/faq/오류코드/FAQ0019",
+    "updated_at": "2024-01-29",
+    "channel": "both",
+    "text": "오류 코드 E005: 보안카드 오류\n\nE005 오류는 보안카드 번호 입력이 잘못되었을 때 발생합니다. 보안카드의 해당 번호를 정확히 입력했는지 확인하세요. 보안카드가 손상되었거나 분실된 경우 재발급이 필요합니다."
+  },
+  {
+    "chunk_id": "FAQ0020_chunk_0",
+    "faq_id": "FAQ0020",
+    "title": "보안카드를 분실했어요",
+    "category": "보안",
+    "url": "https://banking.example.com/faq/보안/FAQ0020",
+    "updated_at": "2026-01-03",
+    "channel": "both",
+    "text": "보안카드를 분실했어요\n\n보안카드를 분실한 경우 즉시 인터넷뱅킹 접속을 중단하고, 고객센터(1588-0000)로 신고하세요. 신고 후 보안카드 재발급이 필요합니다. 재발급은 지점 방문 또는 인터넷뱅킹에서 가능합니다."
+  },
+  {
+    "chunk_id": "FAQ0021_chunk_0",
+    "faq_id": "FAQ0021",
+    "title": "보안카드 번호를 입력할 때 주의사항",
+    "category": "보안",
+    "url": "https://banking.example.com/faq/보안/FAQ0021",
+    "updated_at": "2024-08-20",
+    "channel": "web",
+    "text": "보안카드 번호를 입력할 때 주의사항\n\n보안카드 번호는 화면에 표시된 좌표에 해당하는 번호만 입력하세요. 전체 번호를 입력하지 마세요. 예: A3, B5 좌표에 해당하는 숫자 2자리만 입력합니다."
+  },
+  {
+    "chunk_id": "FAQ0022_chunk_0",
+    "faq_id": "FAQ0022",
+    "title": "OTP 인증이 안돼요",
+    "category": "보안",
+    "url": "https://banking.example.com/faq/보안/FAQ0022",
+    "updated_at": "2025-01-03",
+    "channel": "web",
+    "text": "OTP 인증이 안돼요\n\nOTP 인증이 안 되는 경우: 1) OTP 앱이 최신 버전인지 확인 2) 스마트폰 시간이 정확한지 확인 3) OTP 번호 입력 시간(30초) 내에 입력 4) OTP 앱 재시작 후 재시도"
+  },
+  {
+    "chunk_id": "FAQ0023_chunk_0",
+    "faq_id": "FAQ0023",
+    "title": "비밀번호 변경 주기는?",
+    "category": "보안",
+    "url": "https://banking.example.com/faq/보안/FAQ0023",
+    "updated_at": "2024-10-13",
+    "channel": "web",
+    "text": "비밀번호 변경 주기는?\n\n보안을 위해 비밀번호는 6개월마다 변경하는 것을 권장합니다. 인터넷뱅킹 보안관리 비밀번호 변경에서 언제든지 변경할 수 있습니다. 단순한 비밀번호는 사용하지 마세요."
+  },
+  {
+    "chunk_id": "FAQ0024_chunk_0",
+    "faq_id": "FAQ0024",
+    "title": "의심스러운 거래 알림을 받았어요",
+    "category": "보안",
+    "url": "https://banking.example.com/faq/보안/FAQ0024",
+    "updated_at": "2025-09-30",
+    "channel": "web",
+    "text": "의심스러운 거래 알림을 받았어요\n\n의심스러운 거래 알림을 받은 경우 즉시 고객센터(1588-0000)로 연락하세요. 본인이 거래하지 않은 내역이 있다면 계좌를 일시 정지하고, 비밀번호와 보안카드를 변경하세요."
+  },
+  {
+    "chunk_id": "FAQ0025_chunk_0",
+    "faq_id": "FAQ0025",
+    "title": "이체 수수료는 얼마인가요?",
+    "category": "수수료",
+    "url": "https://banking.example.com/faq/수수료/FAQ0025",
+    "updated_at": "2024-02-23",
+    "channel": "web",
+    "text": "이체 수수료는 얼마인가요?\n\n같은 은행 간 이체는 수수료가 없습니다. 타행 이체는 1회당 500원1,000원이며, 인터넷뱅킹 이용 고객은 월 10회까지 무료입니다. 수수료는 이체 시 실시간으로 안내됩니다."
+  },
+  {
+    "chunk_id": "FAQ0026_chunk_0",
+    "faq_id": "FAQ0026",
+    "title": "계좌이체 수수료 면제 조건",
+    "category": "수수료",
+    "url": "https://banking.example.com/faq/수수료/FAQ0026",
+    "updated_at": "2024-02-05",
+    "channel": "both",
+    "text": "계좌이체 수수료 면제 조건\n\n월 10회 무료 이체는 인터넷뱅킹 또는 모바일뱅킹을 통해 이체한 경우에만 적용됩니다. 지점 방문 이체는 무료 횟수에 포함되지 않습니다."
+  },
+  {
+    "chunk_id": "FAQ0027_chunk_0",
+    "faq_id": "FAQ0027",
+    "title": "해외송금 수수료는?",
+    "category": "수수료",
+    "url": "https://banking.example.com/faq/수수료/FAQ0027",
+    "updated_at": "2025-09-15",
+    "channel": "mobile",
+    "text": "해외송금 수수료는?\n\n해외송금 수수료는 송금 국가와 금액에 따라 다릅니다. 일반적으로 1회당 5,000원20,000원이 부과되며, 인터넷뱅킹에서 정확한 수수료를 확인할 수 있습니다."
+  },
+  {
+    "chunk_id": "FAQ0028_chunk_0",
+    "faq_id": "FAQ0028",
+    "title": "이체 한도 확인 방법",
+    "category": "한도",
+    "url": "https://banking.example.com/faq/한도/FAQ0028",
+    "updated_at": "2025-10-11",
+    "channel": "both",
+    "text": "이체 한도 확인 방법\n\n이체 한도는 인터넷뱅킹 보안관리 이체한도설정에서 확인할 수 있습니다. 일반계좌는 1일 1천만원, 입출금통장은 1일 5천만원이 기본 한도입니다."
+  },
+  {
+    "chunk_id": "FAQ0029_chunk_0",
+    "faq_id": "FAQ0029",
+    "title": "이체 한도 변경 방법",
+    "category": "한도",
+    "url": "https://banking.example.com/faq/한도/FAQ0029",
+    "updated_at": "2024-12-23",
+    "channel": "mobile",
+    "text": "이체 한도 변경 방법\n\n이체 한도 변경은 인터넷뱅킹 보안관리 이체한도설정에서 가능합니다. 공동인증서 인증 후 한도를 변경할 수 있으며, 변경 사항은 즉시 적용됩니다."
+  },
+  {
+    "chunk_id": "FAQ0030_chunk_0",
+    "faq_id": "FAQ0030",
+    "title": "한도 초과로 이체가 안돼요",
+    "category": "한도",
+    "url": "https://banking.example.com/faq/한도/FAQ0030",
+    "updated_at": "2024-07-02",
+    "channel": "mobile",
+    "text": "한도 초과로 이체가 안돼요\n\n한도 초과 시 이체가 제한됩니다. 한도를 늘리거나 다음 날 다시 시도하세요. 긴급한 경우 지점 방문을 통해 한도 변경이 가능합니다."
+  },
+  {
+    "chunk_id": "FAQ0031_chunk_0",
+    "faq_id": "FAQ0031",
+    "title": "자주 쓰는 계좌 등록 방법",
+    "category": "계좌등록",
+    "url": "https://banking.example.com/faq/계좌등록/FAQ0031",
+    "updated_at": "2024-08-17",
+    "channel": "web",
+    "text": "자주 쓰는 계좌 등록 방법\n\n자주 쓰는 계좌는 인터넷뱅킹 계좌관리 자주쓰는계좌 등록에서 등록할 수 있습니다. 등록된 계좌는 이체 시 빠르게 선택할 수 있어 편리합니다."
+  },
+  {
+    "chunk_id": "FAQ0032_chunk_0",
+    "faq_id": "FAQ0032",
+    "title": "타행 계좌 등록 시 주의사항",
+    "category": "계좌등록",
+    "url": "https://banking.example.com/faq/계좌등록/FAQ0032",
+    "updated_at": "2024-05-20",
+    "channel": "both",
+    "text": "타행 계좌 등록 시 주의사항\n\n타행 계좌 등록 시 계좌번호, 예금주명, 은행명을 정확히 입력해야 합니다. 정보가 일치하지 않으면 이체가 거부될 수 있습니다."
+  },
+  {
+    "chunk_id": "FAQ0033_chunk_0",
+    "faq_id": "FAQ0033",
+    "title": "비밀번호 변경 방법",
+    "category": "비밀번호",
+    "url": "https://banking.example.com/faq/비밀번호/FAQ0033",
+    "updated_at": "2024-03-23",
+    "channel": "both",
+    "text": "비밀번호 변경 방법\n\n비밀번호는 인터넷뱅킹 보안관리 비밀번호 변경에서 변경할 수 있습니다. 현재 비밀번호와 새 비밀번호를 입력한 후, 공동인증서 인증을 완료하세요."
+  },
+  {
+    "chunk_id": "FAQ0034_chunk_0",
+    "faq_id": "FAQ0034",
+    "title": "비밀번호 정책",
+    "category": "비밀번호",
+    "url": "https://banking.example.com/faq/비밀번호/FAQ0034",
+    "updated_at": "2024-12-03",
+    "channel": "mobile",
+    "text": "비밀번호 정책\n\n비밀번호는 영문, 숫자, 특수문자를 조합하여 8자 이상 20자 이하로 설정해야 합니다. 연속된 숫자나 생년월일 등 추측하기 쉬운 비밀번호는 사용하지 마세요."
+  },
+  {
+    "chunk_id": "FAQ0035_chunk_0",
+    "faq_id": "FAQ0035",
+    "title": "공동인증서 발급 방법",
+    "category": "공동인증서",
+    "url": "https://banking.example.com/faq/공동인증서/FAQ0035",
+    "updated_at": "2025-06-24",
+    "channel": "mobile",
+    "text": "공동인증서 발급 방법\n\n공동인증서는 인터넷뱅킹 첫 로그인 시 자동으로 발급 안내가 표시됩니다. 발급을 위해 본인인증(휴대폰 인증 또는 지점 방문)이 필요합니다."
+  },
+  {
+    "chunk_id": "FAQ0036_chunk_0",
+    "faq_id": "FAQ0036",
+    "title": "공동인증서 복사이동 방법",
+    "category": "공동인증서",
+    "url": "https://banking.example.com/faq/공동인증서/FAQ0036",
+    "updated_at": "2024-11-24",
+    "channel": "both",
+    "text": "공동인증서 복사이동 방법\n\n공동인증서는 USB에 저장하여 다른 PC에서 사용할 수 있습니다. 인터넷뱅킹 공동인증서 관리 인증서 내보내기에서 USB로 내보낸 후, 다른 PC에서 가져오기를 실행하세요."
+  },
+  {
+    "chunk_id": "FAQ0037_chunk_0",
+    "faq_id": "FAQ0037",
+    "title": "OTP 앱 설치 방법",
+    "category": "OTP",
+    "url": "https://banking.example.com/faq/otp/FAQ0037",
+    "updated_at": "2024-04-08",
+    "channel": "both",
+    "text": "OTP 앱 설치 방법\n\nOTP 앱은 스마트폰 앱스토어에서 '은행명 OTP'로 검색하여 설치할 수 있습니다. 설치 후 인터넷뱅킹에서 OTP 등록을 완료하면 사용할 수 있습니다."
+  },
+  {
+    "chunk_id": "FAQ0038_chunk_0",
+    "faq_id": "FAQ0038",
+    "title": "OTP 번호가 생성되지 않아요",
+    "category": "OTP",
+    "url": "https://banking.example.com/faq/otp/FAQ0038",
+    "updated_at": "2025-01-01",
+    "channel": "both",
+    "text": "OTP 번호가 생성되지 않아요\n\nOTP 번호가 생성되지 않는 경우: 1) OTP 앱 재시작 2) 스마트폰 시간 동기화 확인 3) OTP 앱 최신 버전 확인 4) 재등록 필요 시 고객센터 문의"
+  },
+  {
+    "chunk_id": "FAQ0039_chunk_0",
+    "faq_id": "FAQ0039",
+    "title": "보안카드 재발급 방법",
+    "category": "보안카드",
+    "url": "https://banking.example.com/faq/보안카드/FAQ0039",
+    "updated_at": "2024-04-28",
+    "channel": "web",
+    "text": "보안카드 재발급 방법\n\n보안카드 재발급은 인터넷뱅킹 보안관리 보안카드 재발급 또는 지점 방문을 통해 가능합니다. 재발급 시 본인인증이 필요하며, 기존 보안카드는 즉시 무효화됩니다."
+  },
+  {
+    "chunk_id": "FAQ0040_chunk_0",
+    "faq_id": "FAQ0040",
+    "title": "계좌 잔액 조회 방법",
+    "category": "계좌조회",
+    "url": "https://banking.example.com/faq/계좌조회/FAQ0040",
+    "updated_at": "2024-04-02",
+    "channel": "mobile",
+    "text": "계좌 잔액 조회 방법\n\n계좌 잔액은 인터넷뱅킹 메인 화면에서 바로 확인할 수 있습니다. 모바일뱅킹 앱에서도 실시간 잔액을 확인할 수 있습니다."
+  },
+  {
+    "chunk_id": "FAQ0041_chunk_0",
+    "faq_id": "FAQ0041",
+    "title": "거래내역 조회 기간",
+    "category": "계좌조회",
+    "url": "https://banking.example.com/faq/계좌조회/FAQ0041",
+    "updated_at": "2024-12-28",
+    "channel": "mobile",
+    "text": "거래내역 조회 기간\n\n거래내역은 최근 1년까지 조회 가능합니다. 인터넷뱅킹 거래내역조회에서 기간을 선택하여 조회하세요. 더 오래된 내역은 지점 방문을 통해 확인할 수 있습니다."
+  },
+  {
+    "chunk_id": "FAQ0042_chunk_0",
+    "faq_id": "FAQ0042",
+    "title": "거래내역 다운로드 방법",
+    "category": "거래내역",
+    "url": "https://banking.example.com/faq/거래내역/FAQ0042",
+    "updated_at": "2024-01-18",
+    "channel": "mobile",
+    "text": "거래내역 다운로드 방법\n\n거래내역은 인터넷뱅킹 거래내역조회에서 엑셀 또는 PDF로 다운로드할 수 있습니다. 다운로드한 파일은 개인정보가 포함되어 있으므로 안전하게 보관하세요."
+  },
+  {
+    "chunk_id": "FAQ0043_chunk_0",
+    "faq_id": "FAQ0043",
+    "title": "거래 알림 설정 방법",
+    "category": "알림설정",
+    "url": "https://banking.example.com/faq/알림설정/FAQ0043",
+    "updated_at": "2025-07-25",
+    "channel": "mobile",
+    "text": "거래 알림 설정 방법\n\n거래 알림은 인터넷뱅킹 알림설정에서 설정할 수 있습니다. 이체, 입금, 출금 등 원하는 거래 유형을 선택하고, 알림 방법(SMS, 이메일, 앱 푸시)을 설정하세요."
+  },
+  {
+    "chunk_id": "FAQ0044_chunk_0",
+    "faq_id": "FAQ0044",
+    "title": "로그인 관련 질문 44",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0044",
+    "updated_at": "2024-08-18",
+    "channel": "both",
+    "text": "로그인 관련 질문 44\n\n로그인에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0045_chunk_0",
+    "faq_id": "FAQ0045",
+    "title": "인증서 관련 질문 45",
+    "category": "인증서",
+    "url": "https://banking.example.com/faq/인증서/FAQ0045",
+    "updated_at": "2025-01-31",
+    "channel": "both",
+    "text": "인증서 관련 질문 45\n\n인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0046_chunk_0",
+    "faq_id": "FAQ0046",
+    "title": "알림설정 관련 질문 46",
+    "category": "알림설정",
+    "url": "https://banking.example.com/faq/알림설정/FAQ0046",
+    "updated_at": "2024-07-01",
+    "channel": "both",
+    "text": "알림설정 관련 질문 46\n\n알림설정에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0047_chunk_0",
+    "faq_id": "FAQ0047",
+    "title": "수수료 관련 질문 47",
+    "category": "수수료",
+    "url": "https://banking.example.com/faq/수수료/FAQ0047",
+    "updated_at": "2025-03-21",
+    "channel": "mobile",
+    "text": "수수료 관련 질문 47\n\n수수료에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0048_chunk_0",
+    "faq_id": "FAQ0048",
+    "title": "계좌조회 관련 질문 48",
+    "category": "계좌조회",
+    "url": "https://banking.example.com/faq/계좌조회/FAQ0048",
+    "updated_at": "2025-11-18",
+    "channel": "mobile",
+    "text": "계좌조회 관련 질문 48\n\n계좌조회에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0049_chunk_0",
+    "faq_id": "FAQ0049",
+    "title": "보안카드 관련 질문 49",
+    "category": "보안카드",
+    "url": "https://banking.example.com/faq/보안카드/FAQ0049",
+    "updated_at": "2025-07-14",
+    "channel": "both",
+    "text": "보안카드 관련 질문 49\n\n보안카드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0050_chunk_0",
+    "faq_id": "FAQ0050",
+    "title": "인증서 관련 질문 50",
+    "category": "인증서",
+    "url": "https://banking.example.com/faq/인증서/FAQ0050",
+    "updated_at": "2024-02-16",
+    "channel": "mobile",
+    "text": "인증서 관련 질문 50\n\n인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0051_chunk_0",
+    "faq_id": "FAQ0051",
+    "title": "OTP 관련 질문 51",
+    "category": "OTP",
+    "url": "https://banking.example.com/faq/otp/FAQ0051",
+    "updated_at": "2025-01-14",
+    "channel": "both",
+    "text": "OTP 관련 질문 51\n\nOTP에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0052_chunk_0",
+    "faq_id": "FAQ0052",
+    "title": "오류코드 관련 질문 52",
+    "category": "오류코드",
+    "url": "https://banking.example.com/faq/오류코드/FAQ0052",
+    "updated_at": "2026-01-12",
+    "channel": "mobile",
+    "text": "오류코드 관련 질문 52\n\n오류코드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0053_chunk_0",
+    "faq_id": "FAQ0053",
+    "title": "오류코드 관련 질문 53",
+    "category": "오류코드",
+    "url": "https://banking.example.com/faq/오류코드/FAQ0053",
+    "updated_at": "2025-02-06",
+    "channel": "both",
+    "text": "오류코드 관련 질문 53\n\n오류코드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0054_chunk_0",
+    "faq_id": "FAQ0054",
+    "title": "한도 관련 질문 54",
+    "category": "한도",
+    "url": "https://banking.example.com/faq/한도/FAQ0054",
+    "updated_at": "2024-04-04",
+    "channel": "both",
+    "text": "한도 관련 질문 54\n\n한도에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0055_chunk_0",
+    "faq_id": "FAQ0055",
+    "title": "보안카드 관련 질문 55",
+    "category": "보안카드",
+    "url": "https://banking.example.com/faq/보안카드/FAQ0055",
+    "updated_at": "2025-05-19",
+    "channel": "both",
+    "text": "보안카드 관련 질문 55\n\n보안카드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0056_chunk_0",
+    "faq_id": "FAQ0056",
+    "title": "한도 관련 질문 56",
+    "category": "한도",
+    "url": "https://banking.example.com/faq/한도/FAQ0056",
+    "updated_at": "2024-08-02",
+    "channel": "both",
+    "text": "한도 관련 질문 56\n\n한도에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0057_chunk_0",
+    "faq_id": "FAQ0057",
+    "title": "OTP 관련 질문 57",
+    "category": "OTP",
+    "url": "https://banking.example.com/faq/otp/FAQ0057",
+    "updated_at": "2025-02-17",
+    "channel": "both",
+    "text": "OTP 관련 질문 57\n\nOTP에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0058_chunk_0",
+    "faq_id": "FAQ0058",
+    "title": "보안카드 관련 질문 58",
+    "category": "보안카드",
+    "url": "https://banking.example.com/faq/보안카드/FAQ0058",
+    "updated_at": "2025-12-19",
+    "channel": "mobile",
+    "text": "보안카드 관련 질문 58\n\n보안카드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0059_chunk_0",
+    "faq_id": "FAQ0059",
+    "title": "OTP 관련 질문 59",
+    "category": "OTP",
+    "url": "https://banking.example.com/faq/otp/FAQ0059",
+    "updated_at": "2024-06-07",
+    "channel": "both",
+    "text": "OTP 관련 질문 59\n\nOTP에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0060_chunk_0",
+    "faq_id": "FAQ0060",
+    "title": "보안 관련 질문 60",
+    "category": "보안",
+    "url": "https://banking.example.com/faq/보안/FAQ0060",
+    "updated_at": "2024-04-30",
+    "channel": "mobile",
+    "text": "보안 관련 질문 60\n\n보안에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0061_chunk_0",
+    "faq_id": "FAQ0061",
+    "title": "OTP 관련 질문 61",
+    "category": "OTP",
+    "url": "https://banking.example.com/faq/otp/FAQ0061",
+    "updated_at": "2024-06-07",
+    "channel": "web",
+    "text": "OTP 관련 질문 61\n\nOTP에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0062_chunk_0",
+    "faq_id": "FAQ0062",
+    "title": "알림설정 관련 질문 62",
+    "category": "알림설정",
+    "url": "https://banking.example.com/faq/알림설정/FAQ0062",
+    "updated_at": "2024-07-14",
+    "channel": "both",
+    "text": "알림설정 관련 질문 62\n\n알림설정에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0063_chunk_0",
+    "faq_id": "FAQ0063",
+    "title": "로그인 관련 질문 63",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0063",
+    "updated_at": "2025-08-09",
+    "channel": "mobile",
+    "text": "로그인 관련 질문 63\n\n로그인에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0064_chunk_0",
+    "faq_id": "FAQ0064",
+    "title": "보안카드 관련 질문 64",
+    "category": "보안카드",
+    "url": "https://banking.example.com/faq/보안카드/FAQ0064",
+    "updated_at": "2024-12-27",
+    "channel": "both",
+    "text": "보안카드 관련 질문 64\n\n보안카드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0065_chunk_0",
+    "faq_id": "FAQ0065",
+    "title": "계좌조회 관련 질문 65",
+    "category": "계좌조회",
+    "url": "https://banking.example.com/faq/계좌조회/FAQ0065",
+    "updated_at": "2024-02-22",
+    "channel": "mobile",
+    "text": "계좌조회 관련 질문 65\n\n계좌조회에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0066_chunk_0",
+    "faq_id": "FAQ0066",
+    "title": "인증서 관련 질문 66",
+    "category": "인증서",
+    "url": "https://banking.example.com/faq/인증서/FAQ0066",
+    "updated_at": "2024-05-21",
+    "channel": "web",
+    "text": "인증서 관련 질문 66\n\n인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0067_chunk_0",
+    "faq_id": "FAQ0067",
+    "title": "보안 관련 질문 67",
+    "category": "보안",
+    "url": "https://banking.example.com/faq/보안/FAQ0067",
+    "updated_at": "2024-12-31",
+    "channel": "both",
+    "text": "보안 관련 질문 67\n\n보안에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0068_chunk_0",
+    "faq_id": "FAQ0068",
+    "title": "보안 관련 질문 68",
+    "category": "보안",
+    "url": "https://banking.example.com/faq/보안/FAQ0068",
+    "updated_at": "2025-11-25",
+    "channel": "both",
+    "text": "보안 관련 질문 68\n\n보안에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0069_chunk_0",
+    "faq_id": "FAQ0069",
+    "title": "인증서 관련 질문 69",
+    "category": "인증서",
+    "url": "https://banking.example.com/faq/인증서/FAQ0069",
+    "updated_at": "2025-03-05",
+    "channel": "both",
+    "text": "인증서 관련 질문 69\n\n인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0070_chunk_0",
+    "faq_id": "FAQ0070",
+    "title": "계좌등록 관련 질문 70",
+    "category": "계좌등록",
+    "url": "https://banking.example.com/faq/계좌등록/FAQ0070",
+    "updated_at": "2025-04-04",
+    "channel": "both",
+    "text": "계좌등록 관련 질문 70\n\n계좌등록에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0071_chunk_0",
+    "faq_id": "FAQ0071",
+    "title": "인증서 관련 질문 71",
+    "category": "인증서",
+    "url": "https://banking.example.com/faq/인증서/FAQ0071",
+    "updated_at": "2024-05-18",
+    "channel": "mobile",
+    "text": "인증서 관련 질문 71\n\n인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0072_chunk_0",
+    "faq_id": "FAQ0072",
+    "title": "한도 관련 질문 72",
+    "category": "한도",
+    "url": "https://banking.example.com/faq/한도/FAQ0072",
+    "updated_at": "2024-11-25",
+    "channel": "both",
+    "text": "한도 관련 질문 72\n\n한도에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0073_chunk_0",
+    "faq_id": "FAQ0073",
+    "title": "알림설정 관련 질문 73",
+    "category": "알림설정",
+    "url": "https://banking.example.com/faq/알림설정/FAQ0073",
+    "updated_at": "2025-03-29",
+    "channel": "web",
+    "text": "알림설정 관련 질문 73\n\n알림설정에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0074_chunk_0",
+    "faq_id": "FAQ0074",
+    "title": "계좌조회 관련 질문 74",
+    "category": "계좌조회",
+    "url": "https://banking.example.com/faq/계좌조회/FAQ0074",
+    "updated_at": "2025-10-08",
+    "channel": "mobile",
+    "text": "계좌조회 관련 질문 74\n\n계좌조회에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0075_chunk_0",
+    "faq_id": "FAQ0075",
+    "title": "공동인증서 관련 질문 75",
+    "category": "공동인증서",
+    "url": "https://banking.example.com/faq/공동인증서/FAQ0075",
+    "updated_at": "2025-07-29",
+    "channel": "both",
+    "text": "공동인증서 관련 질문 75\n\n공동인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0076_chunk_0",
+    "faq_id": "FAQ0076",
+    "title": "OTP 관련 질문 76",
+    "category": "OTP",
+    "url": "https://banking.example.com/faq/otp/FAQ0076",
+    "updated_at": "2024-04-24",
+    "channel": "mobile",
+    "text": "OTP 관련 질문 76\n\nOTP에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0077_chunk_0",
+    "faq_id": "FAQ0077",
+    "title": "오류코드 관련 질문 77",
+    "category": "오류코드",
+    "url": "https://banking.example.com/faq/오류코드/FAQ0077",
+    "updated_at": "2024-02-22",
+    "channel": "web",
+    "text": "오류코드 관련 질문 77\n\n오류코드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0078_chunk_0",
+    "faq_id": "FAQ0078",
+    "title": "로그인 관련 질문 78",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0078",
+    "updated_at": "2025-12-24",
+    "channel": "web",
+    "text": "로그인 관련 질문 78\n\n로그인에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0079_chunk_0",
+    "faq_id": "FAQ0079",
+    "title": "비밀번호 관련 질문 79",
+    "category": "비밀번호",
+    "url": "https://banking.example.com/faq/비밀번호/FAQ0079",
+    "updated_at": "2024-02-29",
+    "channel": "both",
+    "text": "비밀번호 관련 질문 79\n\n비밀번호에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0080_chunk_0",
+    "faq_id": "FAQ0080",
+    "title": "한도 관련 질문 80",
+    "category": "한도",
+    "url": "https://banking.example.com/faq/한도/FAQ0080",
+    "updated_at": "2024-03-25",
+    "channel": "web",
+    "text": "한도 관련 질문 80\n\n한도에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0081_chunk_0",
+    "faq_id": "FAQ0081",
+    "title": "거래내역 관련 질문 81",
+    "category": "거래내역",
+    "url": "https://banking.example.com/faq/거래내역/FAQ0081",
+    "updated_at": "2025-02-06",
+    "channel": "mobile",
+    "text": "거래내역 관련 질문 81\n\n거래내역에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0082_chunk_0",
+    "faq_id": "FAQ0082",
+    "title": "거래내역 관련 질문 82",
+    "category": "거래내역",
+    "url": "https://banking.example.com/faq/거래내역/FAQ0082",
+    "updated_at": "2025-01-24",
+    "channel": "both",
+    "text": "거래내역 관련 질문 82\n\n거래내역에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0083_chunk_0",
+    "faq_id": "FAQ0083",
+    "title": "공동인증서 관련 질문 83",
+    "category": "공동인증서",
+    "url": "https://banking.example.com/faq/공동인증서/FAQ0083",
+    "updated_at": "2024-02-27",
+    "channel": "both",
+    "text": "공동인증서 관련 질문 83\n\n공동인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0084_chunk_0",
+    "faq_id": "FAQ0084",
+    "title": "보안카드 관련 질문 84",
+    "category": "보안카드",
+    "url": "https://banking.example.com/faq/보안카드/FAQ0084",
+    "updated_at": "2025-01-14",
+    "channel": "mobile",
+    "text": "보안카드 관련 질문 84\n\n보안카드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0085_chunk_0",
+    "faq_id": "FAQ0085",
+    "title": "비밀번호 관련 질문 85",
+    "category": "비밀번호",
+    "url": "https://banking.example.com/faq/비밀번호/FAQ0085",
+    "updated_at": "2024-08-28",
+    "channel": "web",
+    "text": "비밀번호 관련 질문 85\n\n비밀번호에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0086_chunk_0",
+    "faq_id": "FAQ0086",
+    "title": "알림설정 관련 질문 86",
+    "category": "알림설정",
+    "url": "https://banking.example.com/faq/알림설정/FAQ0086",
+    "updated_at": "2024-02-11",
+    "channel": "web",
+    "text": "알림설정 관련 질문 86\n\n알림설정에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0087_chunk_0",
+    "faq_id": "FAQ0087",
+    "title": "오류코드 관련 질문 87",
+    "category": "오류코드",
+    "url": "https://banking.example.com/faq/오류코드/FAQ0087",
+    "updated_at": "2024-07-07",
+    "channel": "web",
+    "text": "오류코드 관련 질문 87\n\n오류코드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0088_chunk_0",
+    "faq_id": "FAQ0088",
+    "title": "계좌등록 관련 질문 88",
+    "category": "계좌등록",
+    "url": "https://banking.example.com/faq/계좌등록/FAQ0088",
+    "updated_at": "2024-05-25",
+    "channel": "both",
+    "text": "계좌등록 관련 질문 88\n\n계좌등록에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0089_chunk_0",
+    "faq_id": "FAQ0089",
+    "title": "이체 관련 질문 89",
+    "category": "이체",
+    "url": "https://banking.example.com/faq/이체/FAQ0089",
+    "updated_at": "2025-12-25",
+    "channel": "web",
+    "text": "이체 관련 질문 89\n\n이체에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0090_chunk_0",
+    "faq_id": "FAQ0090",
+    "title": "인증서 관련 질문 90",
+    "category": "인증서",
+    "url": "https://banking.example.com/faq/인증서/FAQ0090",
+    "updated_at": "2025-01-31",
+    "channel": "both",
+    "text": "인증서 관련 질문 90\n\n인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0091_chunk_0",
+    "faq_id": "FAQ0091",
+    "title": "계좌등록 관련 질문 91",
+    "category": "계좌등록",
+    "url": "https://banking.example.com/faq/계좌등록/FAQ0091",
+    "updated_at": "2025-01-22",
+    "channel": "both",
+    "text": "계좌등록 관련 질문 91\n\n계좌등록에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0092_chunk_0",
+    "faq_id": "FAQ0092",
+    "title": "오류코드 관련 질문 92",
+    "category": "오류코드",
+    "url": "https://banking.example.com/faq/오류코드/FAQ0092",
+    "updated_at": "2025-04-14",
+    "channel": "mobile",
+    "text": "오류코드 관련 질문 92\n\n오류코드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0093_chunk_0",
+    "faq_id": "FAQ0093",
+    "title": "보안 관련 질문 93",
+    "category": "보안",
+    "url": "https://banking.example.com/faq/보안/FAQ0093",
+    "updated_at": "2025-07-01",
+    "channel": "web",
+    "text": "보안 관련 질문 93\n\n보안에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0094_chunk_0",
+    "faq_id": "FAQ0094",
+    "title": "공동인증서 관련 질문 94",
+    "category": "공동인증서",
+    "url": "https://banking.example.com/faq/공동인증서/FAQ0094",
+    "updated_at": "2024-03-13",
+    "channel": "mobile",
+    "text": "공동인증서 관련 질문 94\n\n공동인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0095_chunk_0",
+    "faq_id": "FAQ0095",
+    "title": "이체 관련 질문 95",
+    "category": "이체",
+    "url": "https://banking.example.com/faq/이체/FAQ0095",
+    "updated_at": "2024-10-23",
+    "channel": "both",
+    "text": "이체 관련 질문 95\n\n이체에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0096_chunk_0",
+    "faq_id": "FAQ0096",
+    "title": "OTP 관련 질문 96",
+    "category": "OTP",
+    "url": "https://banking.example.com/faq/otp/FAQ0096",
+    "updated_at": "2025-01-03",
+    "channel": "web",
+    "text": "OTP 관련 질문 96\n\nOTP에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0097_chunk_0",
+    "faq_id": "FAQ0097",
+    "title": "한도 관련 질문 97",
+    "category": "한도",
+    "url": "https://banking.example.com/faq/한도/FAQ0097",
+    "updated_at": "2025-06-18",
+    "channel": "mobile",
+    "text": "한도 관련 질문 97\n\n한도에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0098_chunk_0",
+    "faq_id": "FAQ0098",
+    "title": "보안카드 관련 질문 98",
+    "category": "보안카드",
+    "url": "https://banking.example.com/faq/보안카드/FAQ0098",
+    "updated_at": "2024-09-20",
+    "channel": "mobile",
+    "text": "보안카드 관련 질문 98\n\n보안카드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0099_chunk_0",
+    "faq_id": "FAQ0099",
+    "title": "공동인증서 관련 질문 99",
+    "category": "공동인증서",
+    "url": "https://banking.example.com/faq/공동인증서/FAQ0099",
+    "updated_at": "2025-09-05",
+    "channel": "web",
+    "text": "공동인증서 관련 질문 99\n\n공동인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0100_chunk_0",
+    "faq_id": "FAQ0100",
+    "title": "인증서 관련 질문 100",
+    "category": "인증서",
+    "url": "https://banking.example.com/faq/인증서/FAQ0100",
+    "updated_at": "2025-10-08",
+    "channel": "web",
+    "text": "인증서 관련 질문 100\n\n인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0101_chunk_0",
+    "faq_id": "FAQ0101",
+    "title": "공동인증서 관련 질문 101",
+    "category": "공동인증서",
+    "url": "https://banking.example.com/faq/공동인증서/FAQ0101",
+    "updated_at": "2025-06-06",
+    "channel": "both",
+    "text": "공동인증서 관련 질문 101\n\n공동인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0102_chunk_0",
+    "faq_id": "FAQ0102",
+    "title": "보안 관련 질문 102",
+    "category": "보안",
+    "url": "https://banking.example.com/faq/보안/FAQ0102",
+    "updated_at": "2025-09-12",
+    "channel": "web",
+    "text": "보안 관련 질문 102\n\n보안에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0103_chunk_0",
+    "faq_id": "FAQ0103",
+    "title": "계좌조회 관련 질문 103",
+    "category": "계좌조회",
+    "url": "https://banking.example.com/faq/계좌조회/FAQ0103",
+    "updated_at": "2025-01-10",
+    "channel": "mobile",
+    "text": "계좌조회 관련 질문 103\n\n계좌조회에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0104_chunk_0",
+    "faq_id": "FAQ0104",
+    "title": "보안카드 관련 질문 104",
+    "category": "보안카드",
+    "url": "https://banking.example.com/faq/보안카드/FAQ0104",
+    "updated_at": "2024-09-15",
+    "channel": "web",
+    "text": "보안카드 관련 질문 104\n\n보안카드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0105_chunk_0",
+    "faq_id": "FAQ0105",
+    "title": "비밀번호 관련 질문 105",
+    "category": "비밀번호",
+    "url": "https://banking.example.com/faq/비밀번호/FAQ0105",
+    "updated_at": "2024-12-06",
+    "channel": "both",
+    "text": "비밀번호 관련 질문 105\n\n비밀번호에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0106_chunk_0",
+    "faq_id": "FAQ0106",
+    "title": "계좌등록 관련 질문 106",
+    "category": "계좌등록",
+    "url": "https://banking.example.com/faq/계좌등록/FAQ0106",
+    "updated_at": "2025-08-24",
+    "channel": "web",
+    "text": "계좌등록 관련 질문 106\n\n계좌등록에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0107_chunk_0",
+    "faq_id": "FAQ0107",
+    "title": "OTP 관련 질문 107",
+    "category": "OTP",
+    "url": "https://banking.example.com/faq/otp/FAQ0107",
+    "updated_at": "2024-09-24",
+    "channel": "both",
+    "text": "OTP 관련 질문 107\n\nOTP에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0108_chunk_0",
+    "faq_id": "FAQ0108",
+    "title": "비밀번호 관련 질문 108",
+    "category": "비밀번호",
+    "url": "https://banking.example.com/faq/비밀번호/FAQ0108",
+    "updated_at": "2024-02-27",
+    "channel": "mobile",
+    "text": "비밀번호 관련 질문 108\n\n비밀번호에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0109_chunk_0",
+    "faq_id": "FAQ0109",
+    "title": "인증서 관련 질문 109",
+    "category": "인증서",
+    "url": "https://banking.example.com/faq/인증서/FAQ0109",
+    "updated_at": "2024-05-21",
+    "channel": "both",
+    "text": "인증서 관련 질문 109\n\n인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0110_chunk_0",
+    "faq_id": "FAQ0110",
+    "title": "계좌조회 관련 질문 110",
+    "category": "계좌조회",
+    "url": "https://banking.example.com/faq/계좌조회/FAQ0110",
+    "updated_at": "2024-11-06",
+    "channel": "web",
+    "text": "계좌조회 관련 질문 110\n\n계좌조회에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0111_chunk_0",
+    "faq_id": "FAQ0111",
+    "title": "수수료 관련 질문 111",
+    "category": "수수료",
+    "url": "https://banking.example.com/faq/수수료/FAQ0111",
+    "updated_at": "2025-04-09",
+    "channel": "both",
+    "text": "수수료 관련 질문 111\n\n수수료에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0112_chunk_0",
+    "faq_id": "FAQ0112",
+    "title": "OTP 관련 질문 112",
+    "category": "OTP",
+    "url": "https://banking.example.com/faq/otp/FAQ0112",
+    "updated_at": "2024-11-04",
+    "channel": "mobile",
+    "text": "OTP 관련 질문 112\n\nOTP에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0113_chunk_0",
+    "faq_id": "FAQ0113",
+    "title": "계좌등록 관련 질문 113",
+    "category": "계좌등록",
+    "url": "https://banking.example.com/faq/계좌등록/FAQ0113",
+    "updated_at": "2025-10-15",
+    "channel": "both",
+    "text": "계좌등록 관련 질문 113\n\n계좌등록에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0114_chunk_0",
+    "faq_id": "FAQ0114",
+    "title": "OTP 관련 질문 114",
+    "category": "OTP",
+    "url": "https://banking.example.com/faq/otp/FAQ0114",
+    "updated_at": "2025-07-03",
+    "channel": "both",
+    "text": "OTP 관련 질문 114\n\nOTP에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0115_chunk_0",
+    "faq_id": "FAQ0115",
+    "title": "거래내역 관련 질문 115",
+    "category": "거래내역",
+    "url": "https://banking.example.com/faq/거래내역/FAQ0115",
+    "updated_at": "2024-10-16",
+    "channel": "web",
+    "text": "거래내역 관련 질문 115\n\n거래내역에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0116_chunk_0",
+    "faq_id": "FAQ0116",
+    "title": "오류코드 관련 질문 116",
+    "category": "오류코드",
+    "url": "https://banking.example.com/faq/오류코드/FAQ0116",
+    "updated_at": "2025-12-07",
+    "channel": "both",
+    "text": "오류코드 관련 질문 116\n\n오류코드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0117_chunk_0",
+    "faq_id": "FAQ0117",
+    "title": "오류코드 관련 질문 117",
+    "category": "오류코드",
+    "url": "https://banking.example.com/faq/오류코드/FAQ0117",
+    "updated_at": "2024-12-11",
+    "channel": "mobile",
+    "text": "오류코드 관련 질문 117\n\n오류코드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0118_chunk_0",
+    "faq_id": "FAQ0118",
+    "title": "거래내역 관련 질문 118",
+    "category": "거래내역",
+    "url": "https://banking.example.com/faq/거래내역/FAQ0118",
+    "updated_at": "2025-01-21",
+    "channel": "web",
+    "text": "거래내역 관련 질문 118\n\n거래내역에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0119_chunk_0",
+    "faq_id": "FAQ0119",
+    "title": "로그인 관련 질문 119",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0119",
+    "updated_at": "2024-12-16",
+    "channel": "both",
+    "text": "로그인 관련 질문 119\n\n로그인에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0120_chunk_0",
+    "faq_id": "FAQ0120",
+    "title": "수수료 관련 질문 120",
+    "category": "수수료",
+    "url": "https://banking.example.com/faq/수수료/FAQ0120",
+    "updated_at": "2025-11-08",
+    "channel": "both",
+    "text": "수수료 관련 질문 120\n\n수수료에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0121_chunk_0",
+    "faq_id": "FAQ0121",
+    "title": "보안 관련 질문 121",
+    "category": "보안",
+    "url": "https://banking.example.com/faq/보안/FAQ0121",
+    "updated_at": "2024-08-23",
+    "channel": "both",
+    "text": "보안 관련 질문 121\n\n보안에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0122_chunk_0",
+    "faq_id": "FAQ0122",
+    "title": "로그인 관련 질문 122",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0122",
+    "updated_at": "2025-10-31",
+    "channel": "mobile",
+    "text": "로그인 관련 질문 122\n\n로그인에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0123_chunk_0",
+    "faq_id": "FAQ0123",
+    "title": "공동인증서 관련 질문 123",
+    "category": "공동인증서",
+    "url": "https://banking.example.com/faq/공동인증서/FAQ0123",
+    "updated_at": "2024-09-24",
+    "channel": "mobile",
+    "text": "공동인증서 관련 질문 123\n\n공동인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0124_chunk_0",
+    "faq_id": "FAQ0124",
+    "title": "OTP 관련 질문 124",
+    "category": "OTP",
+    "url": "https://banking.example.com/faq/otp/FAQ0124",
+    "updated_at": "2025-10-08",
+    "channel": "web",
+    "text": "OTP 관련 질문 124\n\nOTP에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0125_chunk_0",
+    "faq_id": "FAQ0125",
+    "title": "비밀번호 관련 질문 125",
+    "category": "비밀번호",
+    "url": "https://banking.example.com/faq/비밀번호/FAQ0125",
+    "updated_at": "2024-04-03",
+    "channel": "web",
+    "text": "비밀번호 관련 질문 125\n\n비밀번호에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0126_chunk_0",
+    "faq_id": "FAQ0126",
+    "title": "보안카드 관련 질문 126",
+    "category": "보안카드",
+    "url": "https://banking.example.com/faq/보안카드/FAQ0126",
+    "updated_at": "2024-05-24",
+    "channel": "both",
+    "text": "보안카드 관련 질문 126\n\n보안카드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0127_chunk_0",
+    "faq_id": "FAQ0127",
+    "title": "로그인 관련 질문 127",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0127",
+    "updated_at": "2024-12-20",
+    "channel": "both",
+    "text": "로그인 관련 질문 127\n\n로그인에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0128_chunk_0",
+    "faq_id": "FAQ0128",
+    "title": "OTP 관련 질문 128",
+    "category": "OTP",
+    "url": "https://banking.example.com/faq/otp/FAQ0128",
+    "updated_at": "2024-07-04",
+    "channel": "both",
+    "text": "OTP 관련 질문 128\n\nOTP에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0129_chunk_0",
+    "faq_id": "FAQ0129",
+    "title": "계좌등록 관련 질문 129",
+    "category": "계좌등록",
+    "url": "https://banking.example.com/faq/계좌등록/FAQ0129",
+    "updated_at": "2024-04-28",
+    "channel": "web",
+    "text": "계좌등록 관련 질문 129\n\n계좌등록에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0130_chunk_0",
+    "faq_id": "FAQ0130",
+    "title": "계좌등록 관련 질문 130",
+    "category": "계좌등록",
+    "url": "https://banking.example.com/faq/계좌등록/FAQ0130",
+    "updated_at": "2024-04-22",
+    "channel": "web",
+    "text": "계좌등록 관련 질문 130\n\n계좌등록에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0131_chunk_0",
+    "faq_id": "FAQ0131",
+    "title": "보안카드 관련 질문 131",
+    "category": "보안카드",
+    "url": "https://banking.example.com/faq/보안카드/FAQ0131",
+    "updated_at": "2024-12-16",
+    "channel": "web",
+    "text": "보안카드 관련 질문 131\n\n보안카드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0132_chunk_0",
+    "faq_id": "FAQ0132",
+    "title": "계좌조회 관련 질문 132",
+    "category": "계좌조회",
+    "url": "https://banking.example.com/faq/계좌조회/FAQ0132",
+    "updated_at": "2024-10-27",
+    "channel": "mobile",
+    "text": "계좌조회 관련 질문 132\n\n계좌조회에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0133_chunk_0",
+    "faq_id": "FAQ0133",
+    "title": "로그인 관련 질문 133",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0133",
+    "updated_at": "2024-11-14",
+    "channel": "web",
+    "text": "로그인 관련 질문 133\n\n로그인에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0134_chunk_0",
+    "faq_id": "FAQ0134",
+    "title": "수수료 관련 질문 134",
+    "category": "수수료",
+    "url": "https://banking.example.com/faq/수수료/FAQ0134",
+    "updated_at": "2024-08-03",
+    "channel": "mobile",
+    "text": "수수료 관련 질문 134\n\n수수료에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0135_chunk_0",
+    "faq_id": "FAQ0135",
+    "title": "오류코드 관련 질문 135",
+    "category": "오류코드",
+    "url": "https://banking.example.com/faq/오류코드/FAQ0135",
+    "updated_at": "2025-08-23",
+    "channel": "both",
+    "text": "오류코드 관련 질문 135\n\n오류코드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0136_chunk_0",
+    "faq_id": "FAQ0136",
+    "title": "거래내역 관련 질문 136",
+    "category": "거래내역",
+    "url": "https://banking.example.com/faq/거래내역/FAQ0136",
+    "updated_at": "2024-11-17",
+    "channel": "web",
+    "text": "거래내역 관련 질문 136\n\n거래내역에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0137_chunk_0",
+    "faq_id": "FAQ0137",
+    "title": "OTP 관련 질문 137",
+    "category": "OTP",
+    "url": "https://banking.example.com/faq/otp/FAQ0137",
+    "updated_at": "2025-01-31",
+    "channel": "both",
+    "text": "OTP 관련 질문 137\n\nOTP에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0138_chunk_0",
+    "faq_id": "FAQ0138",
+    "title": "비밀번호 관련 질문 138",
+    "category": "비밀번호",
+    "url": "https://banking.example.com/faq/비밀번호/FAQ0138",
+    "updated_at": "2025-01-30",
+    "channel": "both",
+    "text": "비밀번호 관련 질문 138\n\n비밀번호에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0139_chunk_0",
+    "faq_id": "FAQ0139",
+    "title": "한도 관련 질문 139",
+    "category": "한도",
+    "url": "https://banking.example.com/faq/한도/FAQ0139",
+    "updated_at": "2026-01-01",
+    "channel": "mobile",
+    "text": "한도 관련 질문 139\n\n한도에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0140_chunk_0",
+    "faq_id": "FAQ0140",
+    "title": "보안 관련 질문 140",
+    "category": "보안",
+    "url": "https://banking.example.com/faq/보안/FAQ0140",
+    "updated_at": "2025-04-30",
+    "channel": "mobile",
+    "text": "보안 관련 질문 140\n\n보안에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0141_chunk_0",
+    "faq_id": "FAQ0141",
+    "title": "오류코드 관련 질문 141",
+    "category": "오류코드",
+    "url": "https://banking.example.com/faq/오류코드/FAQ0141",
+    "updated_at": "2025-12-12",
+    "channel": "both",
+    "text": "오류코드 관련 질문 141\n\n오류코드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0142_chunk_0",
+    "faq_id": "FAQ0142",
+    "title": "한도 관련 질문 142",
+    "category": "한도",
+    "url": "https://banking.example.com/faq/한도/FAQ0142",
+    "updated_at": "2024-03-23",
+    "channel": "web",
+    "text": "한도 관련 질문 142\n\n한도에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0143_chunk_0",
+    "faq_id": "FAQ0143",
+    "title": "알림설정 관련 질문 143",
+    "category": "알림설정",
+    "url": "https://banking.example.com/faq/알림설정/FAQ0143",
+    "updated_at": "2024-08-15",
+    "channel": "mobile",
+    "text": "알림설정 관련 질문 143\n\n알림설정에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0144_chunk_0",
+    "faq_id": "FAQ0144",
+    "title": "인증서 관련 질문 144",
+    "category": "인증서",
+    "url": "https://banking.example.com/faq/인증서/FAQ0144",
+    "updated_at": "2024-12-07",
+    "channel": "web",
+    "text": "인증서 관련 질문 144\n\n인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0145_chunk_0",
+    "faq_id": "FAQ0145",
+    "title": "OTP 관련 질문 145",
+    "category": "OTP",
+    "url": "https://banking.example.com/faq/otp/FAQ0145",
+    "updated_at": "2025-04-02",
+    "channel": "mobile",
+    "text": "OTP 관련 질문 145\n\nOTP에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0146_chunk_0",
+    "faq_id": "FAQ0146",
+    "title": "공동인증서 관련 질문 146",
+    "category": "공동인증서",
+    "url": "https://banking.example.com/faq/공동인증서/FAQ0146",
+    "updated_at": "2024-11-29",
+    "channel": "both",
+    "text": "공동인증서 관련 질문 146\n\n공동인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0147_chunk_0",
+    "faq_id": "FAQ0147",
+    "title": "비밀번호 관련 질문 147",
+    "category": "비밀번호",
+    "url": "https://banking.example.com/faq/비밀번호/FAQ0147",
+    "updated_at": "2025-03-28",
+    "channel": "web",
+    "text": "비밀번호 관련 질문 147\n\n비밀번호에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0148_chunk_0",
+    "faq_id": "FAQ0148",
+    "title": "수수료 관련 질문 148",
+    "category": "수수료",
+    "url": "https://banking.example.com/faq/수수료/FAQ0148",
+    "updated_at": "2024-02-11",
+    "channel": "web",
+    "text": "수수료 관련 질문 148\n\n수수료에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0149_chunk_0",
+    "faq_id": "FAQ0149",
+    "title": "오류코드 관련 질문 149",
+    "category": "오류코드",
+    "url": "https://banking.example.com/faq/오류코드/FAQ0149",
+    "updated_at": "2025-01-20",
+    "channel": "both",
+    "text": "오류코드 관련 질문 149\n\n오류코드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0150_chunk_0",
+    "faq_id": "FAQ0150",
+    "title": "거래내역 관련 질문 150",
+    "category": "거래내역",
+    "url": "https://banking.example.com/faq/거래내역/FAQ0150",
+    "updated_at": "2025-02-01",
+    "channel": "both",
+    "text": "거래내역 관련 질문 150\n\n거래내역에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0151_chunk_0",
+    "faq_id": "FAQ0151",
+    "title": "수수료 관련 질문 151",
+    "category": "수수료",
+    "url": "https://banking.example.com/faq/수수료/FAQ0151",
+    "updated_at": "2025-11-19",
+    "channel": "mobile",
+    "text": "수수료 관련 질문 151\n\n수수료에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0152_chunk_0",
+    "faq_id": "FAQ0152",
+    "title": "인증서 관련 질문 152",
+    "category": "인증서",
+    "url": "https://banking.example.com/faq/인증서/FAQ0152",
+    "updated_at": "2024-04-18",
+    "channel": "web",
+    "text": "인증서 관련 질문 152\n\n인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0153_chunk_0",
+    "faq_id": "FAQ0153",
+    "title": "비밀번호 관련 질문 153",
+    "category": "비밀번호",
+    "url": "https://banking.example.com/faq/비밀번호/FAQ0153",
+    "updated_at": "2025-09-05",
+    "channel": "mobile",
+    "text": "비밀번호 관련 질문 153\n\n비밀번호에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0154_chunk_0",
+    "faq_id": "FAQ0154",
+    "title": "로그인 관련 질문 154",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0154",
+    "updated_at": "2024-11-16",
+    "channel": "mobile",
+    "text": "로그인 관련 질문 154\n\n로그인에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0155_chunk_0",
+    "faq_id": "FAQ0155",
+    "title": "OTP 관련 질문 155",
+    "category": "OTP",
+    "url": "https://banking.example.com/faq/otp/FAQ0155",
+    "updated_at": "2025-01-24",
+    "channel": "mobile",
+    "text": "OTP 관련 질문 155\n\nOTP에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0156_chunk_0",
+    "faq_id": "FAQ0156",
+    "title": "공동인증서 관련 질문 156",
+    "category": "공동인증서",
+    "url": "https://banking.example.com/faq/공동인증서/FAQ0156",
+    "updated_at": "2025-07-31",
+    "channel": "web",
+    "text": "공동인증서 관련 질문 156\n\n공동인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0157_chunk_0",
+    "faq_id": "FAQ0157",
+    "title": "보안 관련 질문 157",
+    "category": "보안",
+    "url": "https://banking.example.com/faq/보안/FAQ0157",
+    "updated_at": "2025-04-01",
+    "channel": "web",
+    "text": "보안 관련 질문 157\n\n보안에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0158_chunk_0",
+    "faq_id": "FAQ0158",
+    "title": "OTP 관련 질문 158",
+    "category": "OTP",
+    "url": "https://banking.example.com/faq/otp/FAQ0158",
+    "updated_at": "2025-12-12",
+    "channel": "web",
+    "text": "OTP 관련 질문 158\n\nOTP에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0159_chunk_0",
+    "faq_id": "FAQ0159",
+    "title": "공동인증서 관련 질문 159",
+    "category": "공동인증서",
+    "url": "https://banking.example.com/faq/공동인증서/FAQ0159",
+    "updated_at": "2024-12-19",
+    "channel": "both",
+    "text": "공동인증서 관련 질문 159\n\n공동인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0160_chunk_0",
+    "faq_id": "FAQ0160",
+    "title": "인증서 관련 질문 160",
+    "category": "인증서",
+    "url": "https://banking.example.com/faq/인증서/FAQ0160",
+    "updated_at": "2025-01-06",
+    "channel": "both",
+    "text": "인증서 관련 질문 160\n\n인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0161_chunk_0",
+    "faq_id": "FAQ0161",
+    "title": "이체 관련 질문 161",
+    "category": "이체",
+    "url": "https://banking.example.com/faq/이체/FAQ0161",
+    "updated_at": "2025-10-11",
+    "channel": "both",
+    "text": "이체 관련 질문 161\n\n이체에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0162_chunk_0",
+    "faq_id": "FAQ0162",
+    "title": "오류코드 관련 질문 162",
+    "category": "오류코드",
+    "url": "https://banking.example.com/faq/오류코드/FAQ0162",
+    "updated_at": "2024-08-12",
+    "channel": "web",
+    "text": "오류코드 관련 질문 162\n\n오류코드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0163_chunk_0",
+    "faq_id": "FAQ0163",
+    "title": "보안카드 관련 질문 163",
+    "category": "보안카드",
+    "url": "https://banking.example.com/faq/보안카드/FAQ0163",
+    "updated_at": "2024-06-18",
+    "channel": "mobile",
+    "text": "보안카드 관련 질문 163\n\n보안카드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0164_chunk_0",
+    "faq_id": "FAQ0164",
+    "title": "거래내역 관련 질문 164",
+    "category": "거래내역",
+    "url": "https://banking.example.com/faq/거래내역/FAQ0164",
+    "updated_at": "2024-03-09",
+    "channel": "both",
+    "text": "거래내역 관련 질문 164\n\n거래내역에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0165_chunk_0",
+    "faq_id": "FAQ0165",
+    "title": "로그인 관련 질문 165",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0165",
+    "updated_at": "2024-04-10",
+    "channel": "mobile",
+    "text": "로그인 관련 질문 165\n\n로그인에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0166_chunk_0",
+    "faq_id": "FAQ0166",
+    "title": "보안 관련 질문 166",
+    "category": "보안",
+    "url": "https://banking.example.com/faq/보안/FAQ0166",
+    "updated_at": "2024-11-17",
+    "channel": "mobile",
+    "text": "보안 관련 질문 166\n\n보안에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0167_chunk_0",
+    "faq_id": "FAQ0167",
+    "title": "계좌조회 관련 질문 167",
+    "category": "계좌조회",
+    "url": "https://banking.example.com/faq/계좌조회/FAQ0167",
+    "updated_at": "2024-08-22",
+    "channel": "mobile",
+    "text": "계좌조회 관련 질문 167\n\n계좌조회에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0168_chunk_0",
+    "faq_id": "FAQ0168",
+    "title": "보안 관련 질문 168",
+    "category": "보안",
+    "url": "https://banking.example.com/faq/보안/FAQ0168",
+    "updated_at": "2025-12-22",
+    "channel": "web",
+    "text": "보안 관련 질문 168\n\n보안에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0169_chunk_0",
+    "faq_id": "FAQ0169",
+    "title": "계좌등록 관련 질문 169",
+    "category": "계좌등록",
+    "url": "https://banking.example.com/faq/계좌등록/FAQ0169",
+    "updated_at": "2025-06-18",
+    "channel": "web",
+    "text": "계좌등록 관련 질문 169\n\n계좌등록에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0170_chunk_0",
+    "faq_id": "FAQ0170",
+    "title": "수수료 관련 질문 170",
+    "category": "수수료",
+    "url": "https://banking.example.com/faq/수수료/FAQ0170",
+    "updated_at": "2025-10-29",
+    "channel": "mobile",
+    "text": "수수료 관련 질문 170\n\n수수료에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0171_chunk_0",
+    "faq_id": "FAQ0171",
+    "title": "이체 관련 질문 171",
+    "category": "이체",
+    "url": "https://banking.example.com/faq/이체/FAQ0171",
+    "updated_at": "2025-01-30",
+    "channel": "both",
+    "text": "이체 관련 질문 171\n\n이체에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0172_chunk_0",
+    "faq_id": "FAQ0172",
+    "title": "공동인증서 관련 질문 172",
+    "category": "공동인증서",
+    "url": "https://banking.example.com/faq/공동인증서/FAQ0172",
+    "updated_at": "2025-11-23",
+    "channel": "both",
+    "text": "공동인증서 관련 질문 172\n\n공동인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0173_chunk_0",
+    "faq_id": "FAQ0173",
+    "title": "로그인 관련 질문 173",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0173",
+    "updated_at": "2025-04-18",
+    "channel": "web",
+    "text": "로그인 관련 질문 173\n\n로그인에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0174_chunk_0",
+    "faq_id": "FAQ0174",
+    "title": "알림설정 관련 질문 174",
+    "category": "알림설정",
+    "url": "https://banking.example.com/faq/알림설정/FAQ0174",
+    "updated_at": "2025-11-18",
+    "channel": "web",
+    "text": "알림설정 관련 질문 174\n\n알림설정에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0175_chunk_0",
+    "faq_id": "FAQ0175",
+    "title": "한도 관련 질문 175",
+    "category": "한도",
+    "url": "https://banking.example.com/faq/한도/FAQ0175",
+    "updated_at": "2025-08-19",
+    "channel": "mobile",
+    "text": "한도 관련 질문 175\n\n한도에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0176_chunk_0",
+    "faq_id": "FAQ0176",
+    "title": "보안 관련 질문 176",
+    "category": "보안",
+    "url": "https://banking.example.com/faq/보안/FAQ0176",
+    "updated_at": "2024-01-24",
+    "channel": "mobile",
+    "text": "보안 관련 질문 176\n\n보안에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0177_chunk_0",
+    "faq_id": "FAQ0177",
+    "title": "한도 관련 질문 177",
+    "category": "한도",
+    "url": "https://banking.example.com/faq/한도/FAQ0177",
+    "updated_at": "2025-08-17",
+    "channel": "both",
+    "text": "한도 관련 질문 177\n\n한도에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0178_chunk_0",
+    "faq_id": "FAQ0178",
+    "title": "로그인 관련 질문 178",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0178",
+    "updated_at": "2024-04-09",
+    "channel": "mobile",
+    "text": "로그인 관련 질문 178\n\n로그인에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0179_chunk_0",
+    "faq_id": "FAQ0179",
+    "title": "보안 관련 질문 179",
+    "category": "보안",
+    "url": "https://banking.example.com/faq/보안/FAQ0179",
+    "updated_at": "2025-03-04",
+    "channel": "both",
+    "text": "보안 관련 질문 179\n\n보안에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0180_chunk_0",
+    "faq_id": "FAQ0180",
+    "title": "OTP 관련 질문 180",
+    "category": "OTP",
+    "url": "https://banking.example.com/faq/otp/FAQ0180",
+    "updated_at": "2025-06-19",
+    "channel": "mobile",
+    "text": "OTP 관련 질문 180\n\nOTP에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0181_chunk_0",
+    "faq_id": "FAQ0181",
+    "title": "로그인 관련 질문 181",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0181",
+    "updated_at": "2024-04-08",
+    "channel": "both",
+    "text": "로그인 관련 질문 181\n\n로그인에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0182_chunk_0",
+    "faq_id": "FAQ0182",
+    "title": "알림설정 관련 질문 182",
+    "category": "알림설정",
+    "url": "https://banking.example.com/faq/알림설정/FAQ0182",
+    "updated_at": "2025-05-09",
+    "channel": "web",
+    "text": "알림설정 관련 질문 182\n\n알림설정에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0183_chunk_0",
+    "faq_id": "FAQ0183",
+    "title": "수수료 관련 질문 183",
+    "category": "수수료",
+    "url": "https://banking.example.com/faq/수수료/FAQ0183",
+    "updated_at": "2025-05-20",
+    "channel": "mobile",
+    "text": "수수료 관련 질문 183\n\n수수료에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0184_chunk_0",
+    "faq_id": "FAQ0184",
+    "title": "비밀번호 관련 질문 184",
+    "category": "비밀번호",
+    "url": "https://banking.example.com/faq/비밀번호/FAQ0184",
+    "updated_at": "2025-09-08",
+    "channel": "both",
+    "text": "비밀번호 관련 질문 184\n\n비밀번호에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0185_chunk_0",
+    "faq_id": "FAQ0185",
+    "title": "로그인 관련 질문 185",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0185",
+    "updated_at": "2024-04-06",
+    "channel": "mobile",
+    "text": "로그인 관련 질문 185\n\n로그인에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0186_chunk_0",
+    "faq_id": "FAQ0186",
+    "title": "공동인증서 관련 질문 186",
+    "category": "공동인증서",
+    "url": "https://banking.example.com/faq/공동인증서/FAQ0186",
+    "updated_at": "2024-03-05",
+    "channel": "both",
+    "text": "공동인증서 관련 질문 186\n\n공동인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0187_chunk_0",
+    "faq_id": "FAQ0187",
+    "title": "이체 관련 질문 187",
+    "category": "이체",
+    "url": "https://banking.example.com/faq/이체/FAQ0187",
+    "updated_at": "2025-07-02",
+    "channel": "mobile",
+    "text": "이체 관련 질문 187\n\n이체에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0188_chunk_0",
+    "faq_id": "FAQ0188",
+    "title": "한도 관련 질문 188",
+    "category": "한도",
+    "url": "https://banking.example.com/faq/한도/FAQ0188",
+    "updated_at": "2024-09-22",
+    "channel": "mobile",
+    "text": "한도 관련 질문 188\n\n한도에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0189_chunk_0",
+    "faq_id": "FAQ0189",
+    "title": "계좌등록 관련 질문 189",
+    "category": "계좌등록",
+    "url": "https://banking.example.com/faq/계좌등록/FAQ0189",
+    "updated_at": "2025-09-05",
+    "channel": "both",
+    "text": "계좌등록 관련 질문 189\n\n계좌등록에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0190_chunk_0",
+    "faq_id": "FAQ0190",
+    "title": "공동인증서 관련 질문 190",
+    "category": "공동인증서",
+    "url": "https://banking.example.com/faq/공동인증서/FAQ0190",
+    "updated_at": "2025-04-08",
+    "channel": "both",
+    "text": "공동인증서 관련 질문 190\n\n공동인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0191_chunk_0",
+    "faq_id": "FAQ0191",
+    "title": "한도 관련 질문 191",
+    "category": "한도",
+    "url": "https://banking.example.com/faq/한도/FAQ0191",
+    "updated_at": "2024-08-30",
+    "channel": "web",
+    "text": "한도 관련 질문 191\n\n한도에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0192_chunk_0",
+    "faq_id": "FAQ0192",
+    "title": "보안카드 관련 질문 192",
+    "category": "보안카드",
+    "url": "https://banking.example.com/faq/보안카드/FAQ0192",
+    "updated_at": "2025-05-18",
+    "channel": "mobile",
+    "text": "보안카드 관련 질문 192\n\n보안카드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0193_chunk_0",
+    "faq_id": "FAQ0193",
+    "title": "한도 관련 질문 193",
+    "category": "한도",
+    "url": "https://banking.example.com/faq/한도/FAQ0193",
+    "updated_at": "2025-12-15",
+    "channel": "both",
+    "text": "한도 관련 질문 193\n\n한도에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0194_chunk_0",
+    "faq_id": "FAQ0194",
+    "title": "보안카드 관련 질문 194",
+    "category": "보안카드",
+    "url": "https://banking.example.com/faq/보안카드/FAQ0194",
+    "updated_at": "2025-01-25",
+    "channel": "mobile",
+    "text": "보안카드 관련 질문 194\n\n보안카드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0195_chunk_0",
+    "faq_id": "FAQ0195",
+    "title": "거래내역 관련 질문 195",
+    "category": "거래내역",
+    "url": "https://banking.example.com/faq/거래내역/FAQ0195",
+    "updated_at": "2025-07-08",
+    "channel": "both",
+    "text": "거래내역 관련 질문 195\n\n거래내역에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0196_chunk_0",
+    "faq_id": "FAQ0196",
+    "title": "공동인증서 관련 질문 196",
+    "category": "공동인증서",
+    "url": "https://banking.example.com/faq/공동인증서/FAQ0196",
+    "updated_at": "2024-07-07",
+    "channel": "web",
+    "text": "공동인증서 관련 질문 196\n\n공동인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0197_chunk_0",
+    "faq_id": "FAQ0197",
+    "title": "수수료 관련 질문 197",
+    "category": "수수료",
+    "url": "https://banking.example.com/faq/수수료/FAQ0197",
+    "updated_at": "2025-01-17",
+    "channel": "web",
+    "text": "수수료 관련 질문 197\n\n수수료에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0198_chunk_0",
+    "faq_id": "FAQ0198",
+    "title": "인증서 관련 질문 198",
+    "category": "인증서",
+    "url": "https://banking.example.com/faq/인증서/FAQ0198",
+    "updated_at": "2024-06-03",
+    "channel": "mobile",
+    "text": "인증서 관련 질문 198\n\n인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0199_chunk_0",
+    "faq_id": "FAQ0199",
+    "title": "오류코드 관련 질문 199",
+    "category": "오류코드",
+    "url": "https://banking.example.com/faq/오류코드/FAQ0199",
+    "updated_at": "2025-10-12",
+    "channel": "mobile",
+    "text": "오류코드 관련 질문 199\n\n오류코드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0200_chunk_0",
+    "faq_id": "FAQ0200",
+    "title": "보안 관련 질문 200",
+    "category": "보안",
+    "url": "https://banking.example.com/faq/보안/FAQ0200",
+    "updated_at": "2025-11-12",
+    "channel": "web",
+    "text": "보안 관련 질문 200\n\n보안에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0201_chunk_0",
+    "faq_id": "FAQ0201",
+    "title": "공동인증서 관련 질문 201",
+    "category": "공동인증서",
+    "url": "https://banking.example.com/faq/공동인증서/FAQ0201",
+    "updated_at": "2025-09-29",
+    "channel": "both",
+    "text": "공동인증서 관련 질문 201\n\n공동인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0202_chunk_0",
+    "faq_id": "FAQ0202",
+    "title": "오류코드 관련 질문 202",
+    "category": "오류코드",
+    "url": "https://banking.example.com/faq/오류코드/FAQ0202",
+    "updated_at": "2024-07-20",
+    "channel": "mobile",
+    "text": "오류코드 관련 질문 202\n\n오류코드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0203_chunk_0",
+    "faq_id": "FAQ0203",
+    "title": "로그인 관련 질문 203",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0203",
+    "updated_at": "2025-06-18",
+    "channel": "both",
+    "text": "로그인 관련 질문 203\n\n로그인에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0204_chunk_0",
+    "faq_id": "FAQ0204",
+    "title": "보안카드 관련 질문 204",
+    "category": "보안카드",
+    "url": "https://banking.example.com/faq/보안카드/FAQ0204",
+    "updated_at": "2025-12-09",
+    "channel": "both",
+    "text": "보안카드 관련 질문 204\n\n보안카드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0205_chunk_0",
+    "faq_id": "FAQ0205",
+    "title": "수수료 관련 질문 205",
+    "category": "수수료",
+    "url": "https://banking.example.com/faq/수수료/FAQ0205",
+    "updated_at": "2025-10-21",
+    "channel": "both",
+    "text": "수수료 관련 질문 205\n\n수수료에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0206_chunk_0",
+    "faq_id": "FAQ0206",
+    "title": "계좌등록 관련 질문 206",
+    "category": "계좌등록",
+    "url": "https://banking.example.com/faq/계좌등록/FAQ0206",
+    "updated_at": "2024-07-28",
+    "channel": "both",
+    "text": "계좌등록 관련 질문 206\n\n계좌등록에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0207_chunk_0",
+    "faq_id": "FAQ0207",
+    "title": "계좌조회 관련 질문 207",
+    "category": "계좌조회",
+    "url": "https://banking.example.com/faq/계좌조회/FAQ0207",
+    "updated_at": "2025-04-05",
+    "channel": "both",
+    "text": "계좌조회 관련 질문 207\n\n계좌조회에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0208_chunk_0",
+    "faq_id": "FAQ0208",
+    "title": "인증서 관련 질문 208",
+    "category": "인증서",
+    "url": "https://banking.example.com/faq/인증서/FAQ0208",
+    "updated_at": "2025-07-08",
+    "channel": "web",
+    "text": "인증서 관련 질문 208\n\n인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0209_chunk_0",
+    "faq_id": "FAQ0209",
+    "title": "보안카드 관련 질문 209",
+    "category": "보안카드",
+    "url": "https://banking.example.com/faq/보안카드/FAQ0209",
+    "updated_at": "2025-11-25",
+    "channel": "mobile",
+    "text": "보안카드 관련 질문 209\n\n보안카드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0210_chunk_0",
+    "faq_id": "FAQ0210",
+    "title": "계좌조회 관련 질문 210",
+    "category": "계좌조회",
+    "url": "https://banking.example.com/faq/계좌조회/FAQ0210",
+    "updated_at": "2025-08-13",
+    "channel": "web",
+    "text": "계좌조회 관련 질문 210\n\n계좌조회에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0211_chunk_0",
+    "faq_id": "FAQ0211",
+    "title": "알림설정 관련 질문 211",
+    "category": "알림설정",
+    "url": "https://banking.example.com/faq/알림설정/FAQ0211",
+    "updated_at": "2024-04-18",
+    "channel": "mobile",
+    "text": "알림설정 관련 질문 211\n\n알림설정에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0212_chunk_0",
+    "faq_id": "FAQ0212",
+    "title": "이체 관련 질문 212",
+    "category": "이체",
+    "url": "https://banking.example.com/faq/이체/FAQ0212",
+    "updated_at": "2024-02-06",
+    "channel": "mobile",
+    "text": "이체 관련 질문 212\n\n이체에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0213_chunk_0",
+    "faq_id": "FAQ0213",
+    "title": "로그인 관련 질문 213",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0213",
+    "updated_at": "2025-08-16",
+    "channel": "both",
+    "text": "로그인 관련 질문 213\n\n로그인에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0214_chunk_0",
+    "faq_id": "FAQ0214",
+    "title": "수수료 관련 질문 214",
+    "category": "수수료",
+    "url": "https://banking.example.com/faq/수수료/FAQ0214",
+    "updated_at": "2024-06-01",
+    "channel": "mobile",
+    "text": "수수료 관련 질문 214\n\n수수료에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0215_chunk_0",
+    "faq_id": "FAQ0215",
+    "title": "인증서 관련 질문 215",
+    "category": "인증서",
+    "url": "https://banking.example.com/faq/인증서/FAQ0215",
+    "updated_at": "2024-10-06",
+    "channel": "mobile",
+    "text": "인증서 관련 질문 215\n\n인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0216_chunk_0",
+    "faq_id": "FAQ0216",
+    "title": "계좌조회 관련 질문 216",
+    "category": "계좌조회",
+    "url": "https://banking.example.com/faq/계좌조회/FAQ0216",
+    "updated_at": "2025-09-28",
+    "channel": "mobile",
+    "text": "계좌조회 관련 질문 216\n\n계좌조회에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0217_chunk_0",
+    "faq_id": "FAQ0217",
+    "title": "로그인 관련 질문 217",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0217",
+    "updated_at": "2025-12-27",
+    "channel": "web",
+    "text": "로그인 관련 질문 217\n\n로그인에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0218_chunk_0",
+    "faq_id": "FAQ0218",
+    "title": "이체 관련 질문 218",
+    "category": "이체",
+    "url": "https://banking.example.com/faq/이체/FAQ0218",
+    "updated_at": "2025-12-29",
+    "channel": "mobile",
+    "text": "이체 관련 질문 218\n\n이체에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0219_chunk_0",
+    "faq_id": "FAQ0219",
+    "title": "오류코드 관련 질문 219",
+    "category": "오류코드",
+    "url": "https://banking.example.com/faq/오류코드/FAQ0219",
+    "updated_at": "2025-09-16",
+    "channel": "both",
+    "text": "오류코드 관련 질문 219\n\n오류코드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0220_chunk_0",
+    "faq_id": "FAQ0220",
+    "title": "계좌등록 관련 질문 220",
+    "category": "계좌등록",
+    "url": "https://banking.example.com/faq/계좌등록/FAQ0220",
+    "updated_at": "2024-02-20",
+    "channel": "both",
+    "text": "계좌등록 관련 질문 220\n\n계좌등록에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0221_chunk_0",
+    "faq_id": "FAQ0221",
+    "title": "수수료 관련 질문 221",
+    "category": "수수료",
+    "url": "https://banking.example.com/faq/수수료/FAQ0221",
+    "updated_at": "2025-11-13",
+    "channel": "both",
+    "text": "수수료 관련 질문 221\n\n수수료에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0222_chunk_0",
+    "faq_id": "FAQ0222",
+    "title": "보안 관련 질문 222",
+    "category": "보안",
+    "url": "https://banking.example.com/faq/보안/FAQ0222",
+    "updated_at": "2024-12-07",
+    "channel": "both",
+    "text": "보안 관련 질문 222\n\n보안에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0223_chunk_0",
+    "faq_id": "FAQ0223",
+    "title": "공동인증서 관련 질문 223",
+    "category": "공동인증서",
+    "url": "https://banking.example.com/faq/공동인증서/FAQ0223",
+    "updated_at": "2025-06-01",
+    "channel": "web",
+    "text": "공동인증서 관련 질문 223\n\n공동인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0224_chunk_0",
+    "faq_id": "FAQ0224",
+    "title": "로그인 관련 질문 224",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0224",
+    "updated_at": "2024-07-24",
+    "channel": "mobile",
+    "text": "로그인 관련 질문 224\n\n로그인에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0225_chunk_0",
+    "faq_id": "FAQ0225",
+    "title": "로그인 관련 질문 225",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0225",
+    "updated_at": "2025-07-19",
+    "channel": "both",
+    "text": "로그인 관련 질문 225\n\n로그인에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0226_chunk_0",
+    "faq_id": "FAQ0226",
+    "title": "한도 관련 질문 226",
+    "category": "한도",
+    "url": "https://banking.example.com/faq/한도/FAQ0226",
+    "updated_at": "2024-06-02",
+    "channel": "mobile",
+    "text": "한도 관련 질문 226\n\n한도에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0227_chunk_0",
+    "faq_id": "FAQ0227",
+    "title": "보안 관련 질문 227",
+    "category": "보안",
+    "url": "https://banking.example.com/faq/보안/FAQ0227",
+    "updated_at": "2025-01-15",
+    "channel": "web",
+    "text": "보안 관련 질문 227\n\n보안에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0228_chunk_0",
+    "faq_id": "FAQ0228",
+    "title": "OTP 관련 질문 228",
+    "category": "OTP",
+    "url": "https://banking.example.com/faq/otp/FAQ0228",
+    "updated_at": "2025-07-25",
+    "channel": "both",
+    "text": "OTP 관련 질문 228\n\nOTP에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0229_chunk_0",
+    "faq_id": "FAQ0229",
+    "title": "OTP 관련 질문 229",
+    "category": "OTP",
+    "url": "https://banking.example.com/faq/otp/FAQ0229",
+    "updated_at": "2025-12-22",
+    "channel": "both",
+    "text": "OTP 관련 질문 229\n\nOTP에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0230_chunk_0",
+    "faq_id": "FAQ0230",
+    "title": "알림설정 관련 질문 230",
+    "category": "알림설정",
+    "url": "https://banking.example.com/faq/알림설정/FAQ0230",
+    "updated_at": "2025-07-25",
+    "channel": "both",
+    "text": "알림설정 관련 질문 230\n\n알림설정에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0231_chunk_0",
+    "faq_id": "FAQ0231",
+    "title": "비밀번호 관련 질문 231",
+    "category": "비밀번호",
+    "url": "https://banking.example.com/faq/비밀번호/FAQ0231",
+    "updated_at": "2025-01-10",
+    "channel": "web",
+    "text": "비밀번호 관련 질문 231\n\n비밀번호에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0232_chunk_0",
+    "faq_id": "FAQ0232",
+    "title": "인증서 관련 질문 232",
+    "category": "인증서",
+    "url": "https://banking.example.com/faq/인증서/FAQ0232",
+    "updated_at": "2024-10-03",
+    "channel": "mobile",
+    "text": "인증서 관련 질문 232\n\n인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0233_chunk_0",
+    "faq_id": "FAQ0233",
+    "title": "인증서 관련 질문 233",
+    "category": "인증서",
+    "url": "https://banking.example.com/faq/인증서/FAQ0233",
+    "updated_at": "2024-10-06",
+    "channel": "web",
+    "text": "인증서 관련 질문 233\n\n인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0234_chunk_0",
+    "faq_id": "FAQ0234",
+    "title": "계좌등록 관련 질문 234",
+    "category": "계좌등록",
+    "url": "https://banking.example.com/faq/계좌등록/FAQ0234",
+    "updated_at": "2025-07-27",
+    "channel": "web",
+    "text": "계좌등록 관련 질문 234\n\n계좌등록에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0235_chunk_0",
+    "faq_id": "FAQ0235",
+    "title": "인증서 관련 질문 235",
+    "category": "인증서",
+    "url": "https://banking.example.com/faq/인증서/FAQ0235",
+    "updated_at": "2024-10-09",
+    "channel": "web",
+    "text": "인증서 관련 질문 235\n\n인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0236_chunk_0",
+    "faq_id": "FAQ0236",
+    "title": "한도 관련 질문 236",
+    "category": "한도",
+    "url": "https://banking.example.com/faq/한도/FAQ0236",
+    "updated_at": "2024-12-16",
+    "channel": "mobile",
+    "text": "한도 관련 질문 236\n\n한도에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0237_chunk_0",
+    "faq_id": "FAQ0237",
+    "title": "공동인증서 관련 질문 237",
+    "category": "공동인증서",
+    "url": "https://banking.example.com/faq/공동인증서/FAQ0237",
+    "updated_at": "2024-09-19",
+    "channel": "web",
+    "text": "공동인증서 관련 질문 237\n\n공동인증서에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0238_chunk_0",
+    "faq_id": "FAQ0238",
+    "title": "오류코드 관련 질문 238",
+    "category": "오류코드",
+    "url": "https://banking.example.com/faq/오류코드/FAQ0238",
+    "updated_at": "2025-10-21",
+    "channel": "both",
+    "text": "오류코드 관련 질문 238\n\n오류코드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0239_chunk_0",
+    "faq_id": "FAQ0239",
+    "title": "보안 관련 질문 239",
+    "category": "보안",
+    "url": "https://banking.example.com/faq/보안/FAQ0239",
+    "updated_at": "2025-01-26",
+    "channel": "web",
+    "text": "보안 관련 질문 239\n\n보안에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0240_chunk_0",
+    "faq_id": "FAQ0240",
+    "title": "이체 관련 질문 240",
+    "category": "이체",
+    "url": "https://banking.example.com/faq/이체/FAQ0240",
+    "updated_at": "2024-05-15",
+    "channel": "mobile",
+    "text": "이체 관련 질문 240\n\n이체에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0241_chunk_0",
+    "faq_id": "FAQ0241",
+    "title": "로그인 관련 질문 241",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0241",
+    "updated_at": "2025-12-16",
+    "channel": "web",
+    "text": "로그인 관련 질문 241\n\n로그인에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0242_chunk_0",
+    "faq_id": "FAQ0242",
+    "title": "비밀번호 관련 질문 242",
+    "category": "비밀번호",
+    "url": "https://banking.example.com/faq/비밀번호/FAQ0242",
+    "updated_at": "2025-09-08",
+    "channel": "web",
+    "text": "비밀번호 관련 질문 242\n\n비밀번호에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0243_chunk_0",
+    "faq_id": "FAQ0243",
+    "title": "알림설정 관련 질문 243",
+    "category": "알림설정",
+    "url": "https://banking.example.com/faq/알림설정/FAQ0243",
+    "updated_at": "2025-09-25",
+    "channel": "mobile",
+    "text": "알림설정 관련 질문 243\n\n알림설정에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0244_chunk_0",
+    "faq_id": "FAQ0244",
+    "title": "비밀번호 관련 질문 244",
+    "category": "비밀번호",
+    "url": "https://banking.example.com/faq/비밀번호/FAQ0244",
+    "updated_at": "2025-12-21",
+    "channel": "mobile",
+    "text": "비밀번호 관련 질문 244\n\n비밀번호에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0245_chunk_0",
+    "faq_id": "FAQ0245",
+    "title": "계좌등록 관련 질문 245",
+    "category": "계좌등록",
+    "url": "https://banking.example.com/faq/계좌등록/FAQ0245",
+    "updated_at": "2024-12-20",
+    "channel": "both",
+    "text": "계좌등록 관련 질문 245\n\n계좌등록에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0246_chunk_0",
+    "faq_id": "FAQ0246",
+    "title": "보안 관련 질문 246",
+    "category": "보안",
+    "url": "https://banking.example.com/faq/보안/FAQ0246",
+    "updated_at": "2025-06-19",
+    "channel": "mobile",
+    "text": "보안 관련 질문 246\n\n보안에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0247_chunk_0",
+    "faq_id": "FAQ0247",
+    "title": "이체 관련 질문 247",
+    "category": "이체",
+    "url": "https://banking.example.com/faq/이체/FAQ0247",
+    "updated_at": "2025-09-26",
+    "channel": "both",
+    "text": "이체 관련 질문 247\n\n이체에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0248_chunk_0",
+    "faq_id": "FAQ0248",
+    "title": "로그인 관련 질문 248",
+    "category": "로그인",
+    "url": "https://banking.example.com/faq/로그인/FAQ0248",
+    "updated_at": "2025-02-26",
+    "channel": "both",
+    "text": "로그인 관련 질문 248\n\n로그인에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0249_chunk_0",
+    "faq_id": "FAQ0249",
+    "title": "보안카드 관련 질문 249",
+    "category": "보안카드",
+    "url": "https://banking.example.com/faq/보안카드/FAQ0249",
+    "updated_at": "2024-05-13",
+    "channel": "mobile",
+    "text": "보안카드 관련 질문 249\n\n보안카드에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  },
+  {
+    "chunk_id": "FAQ0250_chunk_0",
+    "faq_id": "FAQ0250",
+    "title": "수수료 관련 질문 250",
+    "category": "수수료",
+    "url": "https://banking.example.com/faq/수수료/FAQ0250",
+    "updated_at": "2024-12-31",
+    "channel": "both",
+    "text": "수수료 관련 질문 250\n\n수수료에 대한 자세한 내용은 인터넷뱅킹 고객센터(1588-0000)로 문의하시거나, 인터넷뱅킹 도움말을 참고하세요."
+  }
+]
