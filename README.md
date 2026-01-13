@@ -2,6 +2,11 @@
 
 Gemini LLM과 FAISS 벡터 DB를 사용한 인터넷뱅킹 FAQ 기반 RAG 시스템입니다.
 
+# 시연영상
+![rag_image](https://github.com/user-attachments/assets/78249e86-6b2e-4a98-bb68-f72a007b0523)
+
+
+
 ## 기능
 
 - FAQ 기반 정확한 답변 생성
